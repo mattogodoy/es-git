@@ -1,0 +1,16 @@
+[alias]
+        configurar = config
+        iniciar = init
+        clonar = clone
+        estado = status
+        añadir = add
+        comprometer = commit
+        tirar = pull
+        empujar = push
+        rama = branch
+        comprobar = checkout
+        apilar = stash
+        esparcir = stash pop
+        unir = merge
+        diferencias = diff
+        reiniciar = reset
